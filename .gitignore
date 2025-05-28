@@ -173,4 +173,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 student_venv
-artifacts
+artifacts/test.csv
+artifacts/train.csv
