@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mahesh/Desktop/student_maths/mlruns/0/8d76cc5116da4b419721b8356fa9b3af/artifacts
+end_time: 1748490548293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d76cc5116da4b419721b8356fa9b3af
+run_name: omniscient-ant-487
+run_uuid: 8d76cc5116da4b419721b8356fa9b3af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748490501889
+status: 3
+tags: []
+user_id: root
